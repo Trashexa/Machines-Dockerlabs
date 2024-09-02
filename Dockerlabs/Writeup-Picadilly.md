@@ -64,13 +64,13 @@ Procedo a colocar en Google <b>DCODE ROMANO</b> ya que no sabremos que tipo de c
 <br>
 Encontramos la siguiente web:
 <br> <br>
-![image](https://github.com/user-attachments/assets/08143b4c-8d92-492c-8081-6819e959d04a)
+<img src="https://github.com/user-attachments/assets/08143b4c-8d92-492c-8081-6819e959d04a">
 <br>
 Dentro de ella peguaremos la contraseña dada y veremos los resultados
 <br> <br>
-![image](https://github.com/user-attachments/assets/ad46591c-4c1b-484a-aaa7-1033e613edfd)
+<img src="https://github.com/user-attachments/assets/ad46591c-4c1b-484a-aaa7-1033e613edfd">
 <br>
-![image](https://github.com/user-attachments/assets/31344cd3-acea-4a99-a6b5-5cb6fca6eac3)
+<img src="https://github.com/user-attachments/assets/31344cd3-acea-4a99-a6b5-5cb6fca6eac3">
 <br>
 En total tendremos 25 tipos de cadena de texto diferentes que pueden ser nuestra contraseña para el usuario Mateo
 
