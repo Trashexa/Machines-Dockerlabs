@@ -75,7 +75,7 @@ Dentro de ella peguaremos la contraseña dada y veremos los resultados
 En total tendremos 25 tipos de cadena de texto diferentes que pueden ser nuestra contraseña para el usuario Mateo
 
 # ACCESO AL SISTEMA 
-Luego de probar las 25 contraseñas nos daremos cuenta que <b>NINGUNA</b> nos permite entrar por lo que observaremos que en la contraseña `easycrxazy` <br>
+Luego de probar las 25 contraseñas nos daremos cuenta que <b>NINGUNA</b> nos permite entrar por lo que observaremos que en la contraseña `easycrxazy` esta mal escrita <br>
 Le borraremos la " X " para tener la cadena de texto bien escrita `easycrazy` y la probaremos
 <br> <br>
 ![image](https://github.com/user-attachments/assets/9d9f88b9-8c89-429f-96c3-d55ade832d13)
