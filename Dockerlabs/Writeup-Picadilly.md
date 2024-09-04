@@ -1,4 +1,4 @@
-# Writeup-Maquina-Amor-
+# Writeup-Maquina-Picadelly-
 # DOCKERLABS | [PICADILLY](https://dockerlabs.es/#/)
 
 # ANTES DE COMENZAR
