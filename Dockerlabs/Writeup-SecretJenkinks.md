@@ -3,7 +3,6 @@
 
 # ANTES DE COMENZAR
 #### Haremos un PING para commprobar la conexion
-<br>
 <img src="https://github.com/user-attachments/assets/95bba54f-bc89-48af-a70e-f6445d243f25">
 
 # ESCANEO DE PUERTOS 
